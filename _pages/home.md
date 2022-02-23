@@ -1,7 +1,7 @@
 ---
-title: "Data Analytics and Machine Learning Lab - Home"
+title: "Data Analytics and Machine Intelligence Lab - Home"
 layout: homelay
-excerpt: "Data Analytics and Machine Learning Lab @ New Jersey Institute of Technology."
+excerpt: "Data Analytics and Machine Intelligence Lab @ New Jersey Institute of Technology."
 sitemap: false
 permalink: /
 ---
