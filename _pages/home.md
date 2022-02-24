@@ -8,6 +8,7 @@ permalink: /
 
 We are a dynamic research group at the [New Jersey Institute of Technology](https://www.njit.edu/). Our aim is to explore and understand "".
 
+<link rel = "stylesheet" href="/dami-lab/main.css">
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
