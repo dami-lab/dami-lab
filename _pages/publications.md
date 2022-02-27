@@ -9,7 +9,49 @@ permalink: /publications/
 
 # Publications
 
-## Full List
+## Tutorials 
+
+Yao Ma, Wei Jin, Jiliang Tang, Yiqi Wang, Tyler Derr\
+[Graph Neural Networks: Models and Applications](https://web.njit.edu/~ym329/tutorials/aaai2021/)\
+AAAI Tutorial Forum, 2020
+
+Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma, Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng\
+Deep Graph Learning: Foundations, Advances and Applications\
+In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020
+
+Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu, Tengfei Ma\
+Graph Neural Networks: Models and Applications\
+AAAI Tutorial Forum, 2020
+
+## Books and Book Chapters
+
+Yao Ma and Jiliang Tang\
+[Deep Learning on Graphs](https://web.njit.edu/~ym329/dlg_book)\
+Cambridge University Press, 2021
+
+Yao Ma, Charu Aggarwal, Jiliang Tang\
+[Feature Engineering For Data Streams](https://www.taylorfrancis.com/books/e/9781351721271/chapters/10.1201%2F9781315181080-5)\
+Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
+
+## Preprints
+
+Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
+Non-IID Graph Neural Networks\
+arXiv:2005.12386
+
+Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang\
+R-Transformer: Recurrent Neural Network Enhanced Transformer\ 
+arXiv:1907.05572
+
+Zhiwei Wang, Yao Ma, Dawei Yin, Jiliang Tang\
+Linked Reccurent Neural Networks\
+arXiv:1808.06170
+
+Yao Ma, Suhang Wang, Zhaochun Ren, Dawei Yin, Jiliang Tang\
+Preserving Local and Global Inoformation for Network Embedding\
+arXiv:1710.07266
+
+## Conference and Journal Publications
 
 ### Publications in 2022
 
