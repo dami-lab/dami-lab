@@ -57,10 +57,10 @@ We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey
 
 
 
- **We are  looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-We are grateful for funding from "*insert donors and supporters"
+We are grateful for funding from NJIT, Katana Graph, and NSF. 
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
