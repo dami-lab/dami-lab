@@ -59,8 +59,8 @@ Pictures from NJIT's [Website](https://www.njit.edu/)
 We are grateful for funding from NJIT, Katana Graph, and NSF. 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit.ai" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.tiff" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
