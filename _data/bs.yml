@@ -1,6 +1,6 @@
 - name: Mike Jeong
   photo: bio-photo.jpg
-  info: Computer Science and Applied Mathematics, BS
+  info: Computer Science and Applied Mathematics
   email: jj535@njit.edu
   number_educ: 0
   education1: 
@@ -15,7 +15,7 @@
 
 - name: Rajan Tripathi
   photo: bio-photo.jpg
-  info: Computer Science, BS
+  info: Computer Science
   email: rt9@njit.edu
   number_educ: 0
   education1: 
