@@ -25,17 +25,17 @@ We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eberhardt_hall.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eberhardt_hall_16_9.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NJITMagnoliaBlossoms.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NJITMagnoliaBlossoms_16_9.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/wec.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/wec_16_9.jpeg" alt="Slide 3" />
         </div>
 
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/njit_evening.jpeg" alt="Slide 4" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/njit_evening_16_9.jpeg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
