@@ -61,7 +61,7 @@ h3 {
 We are grateful for funding from NJIT, Katana Graph, and NSF. 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.jpeg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 110px">
 </figure>
