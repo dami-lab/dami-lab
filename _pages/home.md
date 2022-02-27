@@ -48,9 +48,11 @@ We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey
   </a>
 </div>
 
+</style>
 h3 {
   text-align: center;
 }
+</style>
 
 <h3> Pictures from NJIT's [Website](https://www.njit.edu/) <h3>
 
