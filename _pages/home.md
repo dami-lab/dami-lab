@@ -31,7 +31,7 @@ We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NJITMagnoliaBlossoms.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/wec.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/wec.jpeg" alt="Slide 3" />
         </div>
 
         <div class="item">
@@ -58,9 +58,9 @@ Pictures from NJIT's [Website](https://www.njit.edu/)
 
 We are grateful for funding from NJIT, Katana Graph, and NSF. 
 
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit.ai" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.tiff" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure> -->
+</figure>
