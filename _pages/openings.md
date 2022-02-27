@@ -6,7 +6,7 @@ sitemap: false
 permalink: /openings
 ---
 
-# Several fully-funded PhD positions are available in Fall 2022 and Spring 2023.
+## Several fully-funded PhD positions are available in Fall 2022 and Spring 2023.
 
 If you are interested in working with us, please feel free to contact us at: yao.ma at njit dot edu
 
