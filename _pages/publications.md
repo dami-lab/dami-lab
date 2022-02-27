@@ -13,7 +13,7 @@ permalink: /publications/
 
 Yao Ma, Wei Jin, Jiliang Tang, Yiqi Wang, Tyler Derr\
 [Graph Neural Networks: Models and Applications](https://web.njit.edu/~ym329/tutorials/aaai2021/)\
-AAAI Tutorial Forum, 2020
+AAAI Tutorial Forum, 2021
 
 Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma, Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng\
 Deep Graph Learning: Foundations, Advances and Applications\
