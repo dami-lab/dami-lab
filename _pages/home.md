@@ -61,8 +61,10 @@ We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey
 
 We are grateful for funding from NJIT, Katana Graph, and NSF. 
 
+<div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 100px">
 </figure>
+</div>
