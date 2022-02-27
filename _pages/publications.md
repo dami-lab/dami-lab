@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "DAMI Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "DAMI Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,20 +9,16 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
-
+<!-- 
+## Highlights
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ))
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
-
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
@@ -34,30 +30,128 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endif %}
 {% endfor %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 <p> &nbsp; </p>
+-->
 
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+## Full List
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+### Publications in 2022
 
-## Full List of publications
+Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang
+[Is Homophily a Necessity for Graph Neural Networks](https://openreview.net/forum?id=ucASPPD9GKN)
+International Conference on Learning Representations (ICLR 2022)
+
+Wei Jin, Xiaorui Liu, Xiangyu Zhao, Yao Ma, Neil Shah, Jiliang Tang
+[Automated Self-Supervised Learning for Graphs](https://arxiv.org/pdf/2106.05470.pdf)
+International Conference on Learning Representations (ICLR 2022)
+
+### Publications in 2021
+
+Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang
+A Unified View of Graph Neural Networks as Graph Signal Denoising
+In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
+
+Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal, Jiliang Tang
+Graph Feature Gating Networks
+In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
+
+Yao Ma, Suhang Wang, Tyler Derr, Lingfei Wu, Jiliang Tang
+Attacking Graph Convolutional Networks via Rewiring
+In Proceedings of 27th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD), 2021
+
+Xiaorui Liu, Wei Jin, Yao Ma, Yaxin Li, Hua Liu, Yiqi Wang, Ming Yan, Jiliang Tang.
+Elastic Graph Neural Networks.
+International Conference on Machine Learning (ICML), 2021.
+
+Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.
+CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles.
+In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021.
+
+Yao Ma, Juanhui Li, Yiqi Wang, Charu Aggarwal, Changdong Wang, Jiliang Tang
+Graph Pooling with Representativeness
+To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
+
+
+Wentao Wang, Tyler Derr, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, Jiliang Tang
+Learning from Incomplete Labeled Data via Adversarial Data Generation
+To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
+
+Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang
+Graph Structure Learning for Robust Graph Neural Networks [code]
+In Proceedings of 26th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD),2020
+
+Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin
+A Graph Neural Network Framework for Social Recommendations
+IEEE Transactions on Knowledge and Data Engineering. 2020 Jul 13.
+
+Yao Ma, Ziyi Ding, Zhaochun Ren, Jiliang Tang, Dawei Yin
+Streamining Graph Neural Networks
+In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020
+
+Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu
+Traffic Flow Prediction via Spatial Temporal Graph Neural Network
+In Proceedings of the 29th International Conference on World Wide Web Companion (WWW), 2020
+
+Wenqi Fan, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, Jiliang Tang
+Deep Adversarial Canonical Correlation Analysis
+In Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 2020), 2020.
+
+Tyler Derr, Yao Ma, Wenqi Fan, Xiaorui Liu, Charu Aggarwal, Jiliang Tang
+Epidemic Graph Convolutional Networks [code]
+In Proceedings of 13th ACM Conference on Web Search and Data Mining (WSDM), 2020
+
+Wenqi Fan, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, Qing Li
+Deep Social Collaborative Filtering
+In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019
+
+Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil Jain
+Adversarial Attacks and Defenses in Images, Graphs and Text: A Review
+International Journal of Automation and Computing, 17(2), pp.151-178.
+
+Wenqi Fan, Tyler Derr, Yao Ma, Jianping Wang, Jiliang Tang, Qing Li
+Deep Adversarial Social Recommendation
+In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2019
+
+Yao Ma, Suhang Wang, Charu C. Aggarwal, Jiliang Tang
+Graph Convolutional Networks with EigenPooling [code]
+In Proceedings of 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2019
+
+Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin
+Graph Neural Networks for Social Recommendation [code]
+In Proceedings of the 28th International Conference on World Wide Web Companion, 2019
+
+Yao Ma, Suhang Wang, Charu C. Aggarwal, Dawei Yin, Jiliang Tang
+Multi-dimensional Graph Convolutional Networks
+In Proceedings of SIAM International Conference on Data Mining (SDM), 2019
+
+Tyler Derr, Yao Ma, Jiliang Tang
+Signed Graph Convolutional Neural Networks [code]
+In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2018
+
+Yao Ma, Suhang Wang, Jiliang Tang
+Local and Global Information Preserved Network Embedding
+In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
+
+Yao Ma, Zhaochun Ren, Ziheng Jiang, Dawei Yin, Jiliang Tang
+Multidimensional Network Embedding with Hierarchical Structures
+In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018
+
+Yao Ma, Suhang Wang, Jiliang Tang
+Network Embedding with Centrality Information
+Ph.D Forum, The IEEE International Conference on Data Mining (ICDM), 2017
+
+
 
 {% for publi in site.data.publist %}
 
