@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [New Jersey Institute of Technology](https://www.njit.edu/). Our aim is to explore and understand "".
+We are the Data Analytics and Machine Intelligence (DAMI) Lab at the [New Jersey Institute of Technology](https://www.njit.edu/) led by Yao Ma. Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and knowledge graphs. 
 
 <link rel = "stylesheet" href="/dami-lab/main.css">
 
