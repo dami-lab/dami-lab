@@ -5,8 +5,11 @@ excerpt: "Openings"
 sitemap: false
 permalink: /openings
 ---
+# Openings
 
-## Several fully-funded PhD positions are available in Fall 2022 and Spring 2023.
+We are looking for PhD students who are interested in pursuing data mining and machine learning research, especially in graph neural networks and social network analysis. Master's and undergraduate students within NJIT and self-funded visiting students/scholars are also welcome to apply.
+
+### Several fully-funded PhD positions are available in Fall 2022 and Spring 2023.
 
 If you are interested in working with us, please feel free to contact us at: yao.ma at njit dot edu
 
