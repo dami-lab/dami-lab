@@ -40,7 +40,7 @@ Non-IID Graph Neural Networks\
 arXiv:2005.12386
 
 Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang\
-R-Transformer: Recurrent Neural Network Enhanced Transformer\ 
+R-Transformer: Recurrent Neural Network Enhanced Transformer\
 arXiv:1907.05572
 
 Zhiwei Wang, Yao Ma, Dawei Yin, Jiliang Tang\
