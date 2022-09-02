@@ -36,19 +36,19 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 ## Preprints
 
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
-Non-IID Graph Neural Networks\
+[Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
 arXiv:2005.12386
 
 Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang\
-R-Transformer: Recurrent Neural Network Enhanced Transformer\
+[R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)\
 arXiv:1907.05572
 
 Zhiwei Wang, Yao Ma, Dawei Yin, Jiliang Tang\
-Linked Reccurent Neural Networks\
+[Linked Reccurent Neural Networks](https://arxiv.org/abs/1808.06170)\
 arXiv:1808.06170
 
 Yao Ma, Suhang Wang, Zhaochun Ren, Dawei Yin, Jiliang Tang\
-Preserving Local and Global Inoformation for Network Embedding\
+[Preserving Local and Global Inoformation for Network Embedding](https://arxiv.org/abs/1710.07266)\
 arXiv:1710.07266
 
 ## Conference and Journal Publications
@@ -66,58 +66,58 @@ International Conference on Learning Representations (ICLR 2022)
 ### Publications in 2021
 
 Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang\
-A Unified View of Graph Neural Networks as Graph Signal Denoising\
+[A Unified View of Graph Neural Networks as Graph Signal Denoising](https://dl.acm.org/doi/abs/10.1145/3459637.3482225?casa_token=AEB3ERghracAAAAA:wfXidUU6UHuVUHQ0aoJoP3tATTe6H1pTYum_MdDXhy2rfyZ41g0IKs_0cjsJtYW3qbznfmKg4AfjEg)\
 In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
 
 Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal, Jiliang Tang\
-Graph Feature Gating Networks\
+[Graph Feature Gating Networks](https://arxiv.org/abs/2105.04493)\
 In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
 
 Yao Ma, Suhang Wang, Tyler Derr, Lingfei Wu, Jiliang Tang\
-Attacking Graph Convolutional Networks via Rewiring\
+[Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/abs/1906.03750)\
 In Proceedings of 27th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD), 2021
 
 Xiaorui Liu, Wei Jin, Yao Ma, Yaxin Li, Hua Liu, Yiqi Wang, Ming Yan, Jiliang Tang.\
-Elastic Graph Neural Networks.\
+[Elastic Graph Neural Networks](https://proceedings.mlr.press/v139/liu21k.html)\
 International Conference on Machine Learning (ICML), 2021.
 
 Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.\
-CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles.\
+[CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://ieeexplore.ieee.org/document/9458627)\
 In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021.
 
 ### Publications in 2020
 
 Yao Ma, Juanhui Li, Yiqi Wang, Charu Aggarwal, Changdong Wang, Jiliang Tang\
-Graph Pooling with Representativeness\
+[Graph Pooling with Representativeness](https://ieeexplore.ieee.org/abstract/document/9338397)\
 To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
 
 
 Wentao Wang, Tyler Derr, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, Jiliang Tang\
-Learning from Incomplete Labeled Data via Adversarial Data Generation\
+[Learning from Incomplete Labeled Data via Adversarial Data Generation](https://ieeexplore.ieee.org/document/9338324)\
 To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
 
 Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang\
-Graph Structure Learning for Robust Graph Neural Networks\
+[Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403049)\
 In Proceedings of 26th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD),2020
 
 Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin\
-A Graph Neural Network Framework for Social Recommendations\
+[A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/abstract/document/9139346)\
 IEEE Transactions on Knowledge and Data Engineering. 2020 Jul 13.
 
 Yao Ma, Ziyi Ding, Zhaochun Ren, Jiliang Tang, Dawei Yin\
-Streamining Graph Neural Networks\
+[Streamining Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092)\
 In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020
 
 Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu\
-Traffic Flow Prediction via Spatial Temporal Graph Neural Network\
+[Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3366423.3380186?casa_token=SNSY9fbFy0oAAAAA:1ZD5LkGEdRrNh2-RYnXb6mhhOzc9B5DB5l8F0l3qBrW4KZzQd5HBxViWSVv0gbvBs5bYNIgvp0t-xg)\
 In Proceedings of the 29th International Conference on World Wide Web Companion (WWW), 2020
 
 Wenqi Fan, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, Jiliang Tang\
-Deep Adversarial Canonical Correlation Analysis\
+[Deep Adversarial Canonical Correlation Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.40)\
 In Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 2020), 2020.
 
 Tyler Derr, Yao Ma, Wenqi Fan, Xiaorui Liu, Charu Aggarwal, Jiliang Tang\
-Epidemic Graph Convolutional Networks\
+[Epidemic Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3336191.3371807)\
 In Proceedings of 13th ACM Conference on Web Search and Data Mining (WSDM), 2020
 
 ### Publications in 2019
