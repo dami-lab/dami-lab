@@ -56,7 +56,7 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 
 
 
- **We are  looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **The DAMI Lab is growing. We are looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 
