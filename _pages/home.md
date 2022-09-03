@@ -52,13 +52,13 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 
 <div class="center">
   <p> Pictures from NJIT's [Website](https://www.njit.edu/).</p>
+  <p></p>
+  <p></p>
 </div>
 
-
+<br>
  
  **The DAMI Lab is growing. We are looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
-
-
 
 
 <br>
