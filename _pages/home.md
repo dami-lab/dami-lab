@@ -8,6 +8,8 @@ permalink: /
 
 We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Jersey Institute of Technology](https://www.njit.edu/) led by [Yao Ma](https://web.njit.edu/~ym329/). Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and knowledge graphs. 
 
+<br>
+
 <link rel = "stylesheet" href="/dami-lab/main.css">
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,17 +55,15 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 </div>
 
 
-
-
-
+ 
  **The DAMI Lab is growing. We are looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 
 
-
+<br>
 We are grateful for funding from NSF, NJIT, and Katana Graph. 
-
+<br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
