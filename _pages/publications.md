@@ -55,6 +55,10 @@ arXiv:1710.07266
 
 ### Publications in 2022
 
+Wei Jin, Xiaorui Liu, Yao Ma, Charu Aggarwal, Jiliang Tang\
+[Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective](https://arxiv.org/abs/2206.07743)\
+In Proceedings of 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2022)
+
 Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang\
 [Is Homophily a Necessity for Graph Neural Networks](https://openreview.net/forum?id=ucASPPD9GKN)\
 International Conference on Learning Representations (ICLR 2022)
