@@ -67,8 +67,9 @@ We are grateful for funding from NSF, Google, NJIT, and Katana Graph.
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_gcp.png" style="width: 110px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_shell.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.png" style="width: 210px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_gcp.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 100px">
 </figure>
 </div>
