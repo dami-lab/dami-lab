@@ -62,11 +62,12 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 
 
 <br>
-We are grateful for funding from NSF, NJIT, and Katana Graph. 
+We are grateful for funding from NSF, Google, NJIT, and Katana Graph. 
 <br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_gcp.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 100px">
 </figure>
