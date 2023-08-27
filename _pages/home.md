@@ -1,12 +1,12 @@
 ---
 title: "Data Analytics and Machine Intelligence Lab - Home"
 layout: homelay
-excerpt: "Data Analytics and Machine Intelligence Lab @ New Jersey Institute of Technology."
+excerpt: "Data Analytics and Machine Intelligence Lab @ Rensselaer Polytechnic Institute."
 sitemap: false
 permalink: /
 ---
 
-We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Jersey Institute of Technology](https://www.njit.edu/) led by [Yao Ma](https://web.njit.edu/~ym329/). Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and knowledge graphs. 
+We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [Rensselaer Polytechnic Institute](https://www.rpi.edu/) led by [Yao Ma](https://yaoma24.github.io/). Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and knowledge graphs. 
 
 <br>
 
@@ -27,17 +27,17 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eberhardt_hall_16_9.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/rpi-campus_16_9.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NJITMagnoliaBlossoms_16_9.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/rpi-campus-2_16_9.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/wec_16_9.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/rpi-cbis-facilites_16_9.jpeg" alt="Slide 3" />
         </div>
 
         <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/njit_evening_16_9.jpeg" alt="Slide 4" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/rpi-empac_16_9.jpeg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -51,7 +51,7 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 </div>
 
 <div class="center">
-  <p> Pictures from NJIT's [Website](https://www.njit.edu/).</p>
+  <p> Pictures from RPI's [Website](https://www.rpi.edu/).</p>
   <p></p>
   <p></p>
 </div>
@@ -62,13 +62,12 @@ We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [New Je
 
 
 <br>
-We are grateful for funding from NSF, Shell, NJIT, Google and Katana Graph. 
+We are grateful for funding from NSF, Shell, RPI and Katana Graph. 
 <br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
-    <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_gcp.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/njit_logo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rpi_logo" style="width: 210px">
   <!-- <br> -->
   <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_shell.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 110px">
