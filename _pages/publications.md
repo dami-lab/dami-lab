@@ -54,39 +54,38 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2023
-Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang
-[Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/pdf/2306.01323.pdf)
+Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\
+[Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/pdf/2306.01323.pdf)\
 To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
 
-Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin
-[Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/pdf/2306.10453.pdf)
+Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin\
+[Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/pdf/2306.10453.pdf)\
 To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
 
-Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang
-[Towards Fair Graph Neural Networks via Graph Counterfactual](https://arxiv.org/pdf/2307.04937.pdf)
+Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang\
+[Towards Fair Graph Neural Networks via Graph Counterfactual](https://arxiv.org/pdf/2307.04937.pdf)\
 To Appear in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)
 
-Mahmoud Nazzal, Issa Khalil, Abdallah Khreishah, NhatHai Phan, Yao Ma
-
-[Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection](https://arxiv.org/pdf/2308.11754.pdf)
+Mahmoud Nazzal, Issa Khalil, Abdallah Khreishah, NhatHai Phan, Yao Ma\
+[Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection](https://arxiv.org/pdf/2308.11754.pdf)\
 To Appear in the 45th IEEE Symposium on Security and Privacy, May 20-23, 2024.
-Harry Shomer, Wei Jin, Juanhui Li, and Yao Ma, Jiliang Tang
 
-[Learning Representations for Hyper-Relational Knowledge Graphs](https://arxiv.org/pdf/2208.14322.pdf)
+Harry Shomer, Wei Jin, Juanhui Li, and Yao Ma, Jiliang Tang\
+[Learning Representations for Hyper-Relational Knowledge Graphs](https://arxiv.org/pdf/2208.14322.pdf)\
 The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Marrakesh, Morocco, 6-9 November 2023
 
-Juanhui Li, Harry Shomer, Jiayuan Ding, and Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin
-[Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?](https://arxiv.org/pdf/2205.10652.pdf)
+Juanhui Li, Harry Shomer, Jiayuan Ding, and Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin\
+[Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?](https://arxiv.org/pdf/2205.10652.pdf)\
 Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, ACL 2023, Toronto, Cananda, 2023
 
-Juanhui Li, Yao Ma, Wei Zeng, Suqi Cheng, Jiliang Tang, Shuaiqiang Wang, Dawei Yin
-[Graph Enhanced BERT for Query Understanding](https://arxiv.org/pdf/2204.06522.pdf)
+Juanhui Li, Yao Ma, Wei Zeng, Suqi Cheng, Jiliang Tang, Shuaiqiang Wang, Dawei Yin\
+[Graph Enhanced BERT for Query Understanding](https://arxiv.org/pdf/2204.06522.pdf)\
 Proceedings of the 46th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR 2023.
 
 ### Publications in 2022
 
-Khang Tran, Phung Lai, NhatHai Phan, Yao Ma, Abdallah Khreishah, Issa Khalil, My T. Thai, Xintao Wu.
-[Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks](https://arxiv.org/pdf/2211.05766.pdf)
+Khang Tran, Phung Lai, NhatHai Phan, Yao Ma, Abdallah Khreishah, Issa Khalil, My T. Thai, Xintao Wu.\
+[Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks](https://arxiv.org/pdf/2211.05766.pdf)\
 In Proceedings of the 2022 IEEE International Conference on Big Data, 2022
 
 Wei Jin, Xiaorui Liu, Yao Ma, Charu Aggarwal, Jiliang Tang\
