@@ -23,13 +23,13 @@
   education3: 
   education4: 
   education5:
-  website: 
-  linkedin: 
-  twitter: 
-  github: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 - name: Jiaxi Li
-  photo: dummy.png
+  photo: bio-photo.jpg
   info: Computer Science (Fall 2024)
   email: jiaxi.li0216@gmail.com
   number_educ: 0
@@ -38,10 +38,10 @@
   education3: 
   education4: 
   education5:
-  website: 
-  linkedin: 
-  twitter: 
-  github: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 - name: Liangliang Zhang
   photo: LiangliangZhang.jpg
@@ -53,10 +53,10 @@
   education3: 
   education4: 
   education5:
-  website: 
-  linkedin: 
-  twitter: 
-  github: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
 
 
 
