@@ -7,11 +7,11 @@ permalink: /openings
 ---
 # Openings
 
-We are looking for PhD students who are interested in pursuing data mining and machine learning research, especially in graph neural networks and social network analysis. Master's and undergraduate students within NJIT and self-funded visiting students/scholars are also welcome to apply.
+We are looking for PhD students who are interested in pursuing data mining and machine learning research, especially in graph neural networks and social network analysis. Master's and undergraduate students within RPI and self-funded visiting students/scholars are also welcome to apply.
 
 ### Several fully-funded PhD positions are available in Spring 2024 and Fall 2024.
 
-If you are interested in working with us, please feel free to contact us at: yao.ma at njit dot edu
+If you are interested in working with us, please feel free to contact us at: may13 at rpi dot edu
 
 
 - Please use a subject line as follows: { $position } Open Position { $YourName }, where { $position } should be ‘‘PhD’’, ‘‘MS’’, ‘‘BS’’, or ‘‘Visiting’’
