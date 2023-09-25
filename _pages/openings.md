@@ -11,7 +11,7 @@ We are looking for PhD students who are interested in pursuing data mining and m
 
 ### Several fully-funded PhD positions are available in Spring 2024 and Fall 2024.
 
-If you are interested in working with us, please feel free to contact us at: yao.ma.recruit at gmail dot com
+If you are interested in working with us, please feel free to contact us at: yao.ma.recruit at gmail dot com 
 
 
 - Please use a subject line as follows: { $position } Open Position { $YourName }, where { $position } should be ‘‘PhD’’, ‘‘MS’’, ‘‘BS’’, or ‘‘Visiting’’
