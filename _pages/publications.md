@@ -53,7 +53,14 @@ arXiv:1710.07266
 
 ## Conference and Journal Publications
 
+### Publications in 2024
+
+Hongliang Chi, Cong Qi, Suhang Wang and Yao Ma\
+[Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
+In Proceedings of the SIAM International Conference on Data Mining (SDM), 2024
+
 ### Publications in 2023
+
 Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\
 [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/pdf/2306.01323.pdf)\
 To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
