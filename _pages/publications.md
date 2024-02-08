@@ -55,6 +55,8 @@ arXiv:1710.07266
 
 ### Publications in 2024
 
+Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf), [Graph Foundation Model](https://arxiv.org/pdf/2402.02216.pdf), [Machanism of In-context Learning](https://arxiv.org/pdf/2402.02216.pdf), [Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf).
+
 Hongliang Chi, Cong Qi, Suhang Wang and Yao Ma\
 [Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
 In Proceedings of the SIAM International Conference on Data Mining (SDM), 2024
