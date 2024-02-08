@@ -35,6 +35,8 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 
 ## Preprints
 
+Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf), [Graph Foundation Model](https://arxiv.org/pdf/2402.02216.pdf), [Machanism of In-context Learning](https://arxiv.org/pdf/2402.02216.pdf), [Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf).
+
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
 [Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
 arXiv:2005.12386
@@ -54,8 +56,6 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2024
-
-Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf), [Graph Foundation Model](https://arxiv.org/pdf/2402.02216.pdf), [Machanism of In-context Learning](https://arxiv.org/pdf/2402.02216.pdf), [Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf).
 
 Hongliang Chi, Cong Qi, Suhang Wang and Yao Ma\
 [Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
