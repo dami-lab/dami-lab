@@ -35,7 +35,25 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 
 ## Preprints
 
-Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf), [Graph Foundation Model](https://arxiv.org/pdf/2402.02216.pdf), [Machanism of In-context Learning](https://arxiv.org/pdf/2402.02216.pdf), [Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf).
+Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma\
+[Precedence-Constrained Winter Value for Effective Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf)\
+arXiv:2402.01943
+
+Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
+[Graph Foundation Models](https://arxiv.org/pdf/2402.02216.pdf)\
+arXiv:2402.02216
+
+Haitao Mao, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang\
+[A Data Generation Perspective to the Mechanism of In-Context Learning](https://arxiv.org/pdf/2402.02212.pdf)\
+arXiv:2402.02212
+
+Hongjia Xu, Liangliang Zhang, Yao Ma, Sheng Zhou, Zhuonan Zheng, Bu Jiajun\
+[A Survey on Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf)\
+arXiv:2402.02000
+
+Tianyi Zhao, Liangliang Zhang, Yao Ma, Lu Cheng\
+[A Survey on Safe Multi-Modal Learning System](https://arxiv.org/pdf/2402.05355.pdf)\
+arXiv:2402.05355
 
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
 [Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
@@ -57,7 +75,7 @@ arXiv:1710.07266
 
 ### Publications in 2024
 
-Hongliang Chi, Cong Qi, Suhang Wang and Yao Ma\
+Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma\
 [Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
 In Proceedings of the SIAM International Conference on Data Mining (SDM), 2024
 
@@ -71,7 +89,7 @@ Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang 
 [Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/pdf/2306.10453.pdf)\
 To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
 
-Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang\
+Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, Suhang Wang\
 [Towards Fair Graph Neural Networks via Graph Counterfactual](https://arxiv.org/pdf/2307.04937.pdf)\
 To Appear in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)
 
