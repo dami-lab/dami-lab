@@ -34,6 +34,9 @@ Yao Ma, Charu Aggarwal, Jiliang Tang\
 Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
 
 ## Preprints
+Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S.Yu, Yao Ma\
+[Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)\
+arXiv:2402.15680
 
 Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma\
 [Precedence-Constrained Winter Value for Effective Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf)\
