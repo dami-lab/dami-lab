@@ -77,6 +77,9 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2024
+Hongliang Chi, Yao Ma\
+[Enhancing Graph Contrastive Learning with Node Similarity.](https://arxiv.org/pdf/2208.06743)\
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
 
 Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma\
 [Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
