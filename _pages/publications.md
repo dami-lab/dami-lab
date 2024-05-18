@@ -79,14 +79,6 @@ arXiv:1710.07266
 
 ### Publications in 2024
 
-Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun\
-[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming.](https://arxiv.org/pdf/2106.04756)\
-In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
-
-Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
-[Position Paper: Graph Foundation Models.](https://arxiv.org/pdf/2402.02216)\
-In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
-
 Xiaowei Qian, Zhimeng Guo, Jialiang Li, Haitao Mao, Bingheng Li, Suhang Wang, Yao Ma\
 [Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark.](https://arxiv.org/pdf/2403.06017)\
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
@@ -98,6 +90,14 @@ In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data
 Hongliang Chi, Yao Ma\
 [Enhancing Graph Contrastive Learning with Node Similarity.](https://arxiv.org/pdf/2208.06743)\
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
+
+Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun\
+[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming.](https://arxiv.org/pdf/2106.04756)\
+In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
+[Position Paper: Graph Foundation Models.](https://arxiv.org/pdf/2402.02216)\
+In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
 
 Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma\
 [Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
