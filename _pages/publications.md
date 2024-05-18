@@ -80,11 +80,11 @@ arXiv:1710.07266
 ### Publications in 2024
 
 Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun\
-[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming.](https://arxiv.org/pdf/2106.04756)
+[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming.](https://arxiv.org/pdf/2106.04756)\
 In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
 
 Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
-[Position Paper: Graph Foundation Models.](https://arxiv.org/pdf/2402.02216)
+[Position Paper: Graph Foundation Models.](https://arxiv.org/pdf/2402.02216)\
 In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
 
 Xiaowei Qian, Zhimeng Guo, Jialiang Li, Haitao Mao, Bingheng Li, Suhang Wang, Yao Ma\
