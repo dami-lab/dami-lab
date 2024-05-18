@@ -34,6 +34,7 @@ Yao Ma, Charu Aggarwal, Jiliang Tang\
 Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
 
 ## Preprints
+
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S.Yu, Yao Ma\
 [Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)\
 arXiv:2402.15680
@@ -42,9 +43,9 @@ Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma\
 [Precedence-Constrained Winter Value for Effective Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf)\
 arXiv:2402.01943
 
-Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
+<!-- Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
 [Graph Foundation Models](https://arxiv.org/pdf/2402.02216.pdf)\
-arXiv:2402.02216
+arXiv:2402.02216 -->
 
 Haitao Mao, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang\
 [A Data Generation Perspective to the Mechanism of In-Context Learning](https://arxiv.org/pdf/2402.02212.pdf)\
@@ -77,6 +78,23 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2024
+
+Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, Haitao Mao, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun\
+[PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming.](https://arxiv.org/pdf/2106.04756)
+In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
+[Position Paper: Graph Foundation Models.](https://arxiv.org/pdf/2402.02216)
+In Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+Xiaowei Qian, Zhimeng Guo, Jialiang Li, Haitao Mao, Bingheng Li, Suhang Wang, Yao Ma\
+[Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark.](https://arxiv.org/pdf/2403.06017)\
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
+
+Harry Shomer, Yao Ma, Haitao Mao, Juanhui Li, Bo Wu, Jiliang Tang\
+[LPFormer: An Adaptive Graph Transformer for Link Prediction.](https://arxiv.org/pdf/2310.11009)\
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
+
 Hongliang Chi, Yao Ma\
 [Enhancing Graph Contrastive Learning with Node Similarity.](https://arxiv.org/pdf/2208.06743)\
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
