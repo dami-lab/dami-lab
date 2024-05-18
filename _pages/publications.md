@@ -36,43 +36,39 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 ## Preprints
 
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S.Yu, Yao Ma\
-[Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)\
+[Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks.](https://arxiv.org/pdf/2402.15680.pdf)\
 arXiv:2402.15680
 
 Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma\
-[Precedence-Constrained Winter Value for Effective Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf)\
+[Precedence-Constrained Winter Value for Effective Graph Data Valuation.](https://arxiv.org/pdf/2402.01943.pdf)\
 arXiv:2402.01943
 
-<!-- Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang\
-[Graph Foundation Models](https://arxiv.org/pdf/2402.02216.pdf)\
-arXiv:2402.02216 -->
-
 Haitao Mao, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang\
-[A Data Generation Perspective to the Mechanism of In-Context Learning](https://arxiv.org/pdf/2402.02212.pdf)\
+[A Data Generation Perspective to the Mechanism of In-Context Learning.](https://arxiv.org/pdf/2402.02212.pdf)\
 arXiv:2402.02212
 
 Hongjia Xu, Liangliang Zhang, Yao Ma, Sheng Zhou, Zhuonan Zheng, Bu Jiajun\
-[A Survey on Graph Condensation](https://arxiv.org/pdf/2402.02000.pdf)\
+[A Survey on Graph Condensation.](https://arxiv.org/pdf/2402.02000.pdf)\
 arXiv:2402.02000
 
 Tianyi Zhao, Liangliang Zhang, Yao Ma, Lu Cheng\
-[A Survey on Safe Multi-Modal Learning System](https://arxiv.org/pdf/2402.05355.pdf)\
+[A Survey on Safe Multi-Modal Learning System.](https://arxiv.org/pdf/2402.05355.pdf)\
 arXiv:2402.05355
 
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
-[Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
+[Non-IID Graph Neural Networks.](https://arxiv.org/abs/2005.12386)\
 arXiv:2005.12386
 
 Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang\
-[R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)\
+[R-Transformer: Recurrent Neural Network Enhanced Transformer.](https://arxiv.org/abs/1907.05572)\
 arXiv:1907.05572
 
 Zhiwei Wang, Yao Ma, Dawei Yin, Jiliang Tang\
-[Linked Reccurent Neural Networks](https://arxiv.org/abs/1808.06170)\
+[Linked Reccurent Neural Networks.](https://arxiv.org/abs/1808.06170)\
 arXiv:1808.06170
 
 Yao Ma, Suhang Wang, Zhaochun Ren, Dawei Yin, Jiliang Tang\
-[Preserving Local and Global Inoformation for Network Embedding](https://arxiv.org/abs/1710.07266)\
+[Preserving Local and Global Inoformation for Network Embedding.](https://arxiv.org/abs/1710.07266)\
 arXiv:1710.07266
 
 ## Conference and Journal Publications
