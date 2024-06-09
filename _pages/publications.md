@@ -79,10 +79,6 @@ arXiv:1710.07266
 
 ### Publications in 2024
 
-Tianyi Zhao, Liangliang Zhang, Yao Ma, Lu Cheng\
-[A Survey on Safe Multi-Modal Learning System.](https://arxiv.org/pdf/2402.05355.pdf)\
-In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
-
 Xiaowei Qian, Zhimeng Guo, Jialiang Li, Haitao Mao, Bingheng Li, Suhang Wang, Yao Ma\
 [Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark.](https://arxiv.org/pdf/2403.06017)\
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(SIGKDD), 2024
