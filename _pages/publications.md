@@ -55,10 +55,6 @@ Hongjia Xu, Liangliang Zhang, Yao Ma, Sheng Zhou, Zhuonan Zheng, Bu Jiajun\
 [A Survey on Graph Condensation.](https://arxiv.org/pdf/2402.02000.pdf)\
 arXiv:2402.02000
 
-<!-- Tianyi Zhao, Liangliang Zhang, Yao Ma, Lu Cheng\
-[A Survey on Safe Multi-Modal Learning System.](https://arxiv.org/pdf/2402.05355.pdf)\
-arXiv:2402.05355 -->
-
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
 [Non-IID Graph Neural Networks.](https://arxiv.org/abs/2005.12386)\
 arXiv:2005.12386
@@ -77,7 +73,23 @@ arXiv:1710.07266
 
 ## Conference and Journal Publications
 
+### Publications in 2025
+Hongliang Chi, Qiong Wu, Zhengyi Zhou, Yao Ma.\
+[Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation.](https://openreview.net/pdf?id=8X74NZpARg)\
+International Conference on Learning Representations (ICLR 2025)
+
+Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma\
+[Precedence-Constrained Winter Value for Effective Graph Data Valuation.](https://arxiv.org/pdf/2402.01943)\
+International Conference on Learning Representations (ICLR 2025)
+
+Haitao Mao, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang\
+[A Data Generation Perspective to the Mechanism of In-Context Learning.](https://arxiv.org/pdf/2402.02212)\
+2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
+
 ### Publications in 2024
+Qian Ma, Haitao Mao, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, Yu Song, Yihan Shao, Yao Ma\
+[Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](https://arxiv.org/pdf/2408.11243)\
+In Proceedings of the Third Learning on Graphs Conference (LoG 2024)
 
 Tianyi Zhao, Liangliang Zhang, Yao Ma, Lu Cheng\
 [A Survey on Safe Multi-Modal Learning System.](https://arxiv.org/pdf/2402.05355.pdf)\
